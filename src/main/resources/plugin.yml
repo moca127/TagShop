@@ -1,0 +1,9 @@
+name: TagShop
+main: kr.mocha.TagShop
+version: 1.0-SNAPSHOT
+author: mocha
+api: [1.0.0]
+
+permissions :
+ tag.shop.per :
+  default : OP
